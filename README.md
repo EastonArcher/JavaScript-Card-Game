@@ -12,3 +12,4 @@
 * Enjoyable animations and styles.
 
 ## Installation
+1. Clone the repository:
