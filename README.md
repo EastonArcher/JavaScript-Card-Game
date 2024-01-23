@@ -1,4 +1,4 @@
-﻿# MemoryCardGame
+﻿# Memory Card Game
 
 # How to Play
 1. Click on any card to reveal the image.
