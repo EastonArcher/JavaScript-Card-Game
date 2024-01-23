@@ -6,7 +6,7 @@
 3. Match all pairs to win the game.
 
 ## Features
-Interactive card flipping and matching.
-Card shuffling for a new game experience.
-Responsive design for various screen sizes.
-Enjoyable animations and styles.
+* Interactive card flipping and matching.
+* Card shuffling for a new game experience.
+* Responsive design for various screen sizes.
+* Enjoyable animations and styles.
