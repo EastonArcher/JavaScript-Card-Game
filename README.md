@@ -18,6 +18,3 @@
 ```
 2. Open the index.html file in your web browser.
 3. Start playing the Memory Card Game!
-
-## Customization
-Feel free to customize the game by adding your own images or modifying the styles. Update the images folder with your images and adjust the CSS in style.css to match your preferred theme.
