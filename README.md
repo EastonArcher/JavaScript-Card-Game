@@ -17,4 +17,4 @@
    git clone https://github.com/your-username/memory-card-game.git
 ```
 2. Open the index.html file in your web browser.
-3. Start playing the Memory Card Game!
+3. Start playing!
