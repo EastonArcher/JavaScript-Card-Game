@@ -11,7 +11,7 @@
 * Responsive design for various screen sizes
 * Enjoyable animations and styles
 
-## Installation
+## 💻Installation
 1. Clone the repository:
 ```
    git clone https://github.com/your-username/memory-card-game.git
