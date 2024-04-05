@@ -5,7 +5,7 @@
 2. Click on another card to find its matching pair
 3. Match all pairs to win the game
 
-## Features
+## 📋Features
 * Interactive card flipping and matching
 * Card shuffling for a new game experience
 * Responsive design for various screen sizes
