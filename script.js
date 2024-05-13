@@ -37,6 +37,7 @@ function matchCards(img1, img2) {
         cardOne = cardTwo = "";
         return disableDeck = false;
     }
+    // If cards dont match
     setTimeout(() => {
         cardOne.classList.add("shake");
         cardTwo.classList.add("shake");
@@ -48,6 +49,8 @@ function matchCards(img1, img2) {
         disableDeck = false;
     }, 1200);
 }
+
+// Function to shuffle the cards 
 function shuffleCard() {
     matched = 0;
     disableDeck = false;
