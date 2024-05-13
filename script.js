@@ -1,7 +1,13 @@
 // Select all elements with the class "card"
 const cards = document.querySelectorAll(".card");
+
+// Matched pairs counter
 let matched = 0;
+
+// Variables to store the clicked cards
 let cardOne, cardTwo;
+
+// 
 let disableDeck = false;
 function flipCard({target: clickedCard}) {
     if(cardOne !== clickedCard && !disableDeck) {
