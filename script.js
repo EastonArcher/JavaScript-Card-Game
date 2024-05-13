@@ -7,7 +7,7 @@ let matched = 0;
 // Variables to store the clicked cards
 let cardOne, cardTwo;
 
-// 
+// Flag to disable card clicking while flip animation is running
 let disableDeck = false;
 function flipCard({target: clickedCard}) {
     if(cardOne !== clickedCard && !disableDeck) {
