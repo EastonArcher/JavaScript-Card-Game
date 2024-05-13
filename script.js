@@ -64,8 +64,9 @@ function shuffleCard() {
         card.addEventListener("click", flipCard);
     });
 }
-shuffleCard();
-    
+
+// Initial shuffle and event listener assignment
+shuffleCard(); 
 cards.forEach(card => {
     card.addEventListener("click", flipCard);
 });
