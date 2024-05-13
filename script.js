@@ -1,3 +1,4 @@
+// Select all elements with the class "card"
 const cards = document.querySelectorAll(".card");
 let matched = 0;
 let cardOne, cardTwo;
