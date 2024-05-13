@@ -22,6 +22,8 @@ function flipCard({target: clickedCard}) {
         matchCards(cardOneImg, cardTwoImg);
     }
 }
+
+// Function to check if the two selected cards are a match
 function matchCards(img1, img2) {
     if(img1 === img2) {
         matched++;
